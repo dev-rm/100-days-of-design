@@ -2,7 +2,7 @@
 
 ## Learnt about
 
-![Wirefram](images/Day3Wireframe.png)
+![Wireframe](images/Day3Wireframe.png)
 
 ### **Wireframe**: blueprint for designs.
 
