@@ -72,7 +72,7 @@
 - purity of a color
 - brightness of a color in comparison to white
 
-#### References
+## References
 
 1. <https://www.adobe.com/in/creativecloud/design/discover/secondary-colors.html>
 2. <https://www.usability.gov/how-to-and-tools/methods/color-basics.html>
