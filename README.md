@@ -7,3 +7,4 @@
 - [Day 5: Color Theory II - Color Temperature, Color Models, Terminology](005-color-theory-II.md)
 - [Day 6: Wireframe](006-wireframes.md)
 - [Day 7: Typography](007-typography.md)
+- [Day 8: Information Architecture](008-information-architecture.md)

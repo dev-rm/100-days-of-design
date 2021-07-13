@@ -1,6 +1,6 @@
 # Day 7 - Typography
 
-<img src="images/Day7Typography.jpeg" alt="Wireframe" width="500" height="400"/> <br/>
+<img src="images/Day7Typography.jpeg" width="500" height="400"/> <br/>
 <sub>Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kelly Sikkema</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sub>
 
 ## Font
