@@ -53,7 +53,8 @@ User name **is a** user characteristics **who needs** user needs **because** ins
 ## References
 
 1.<https://www.interaction-design.org/literature/topics/design-thinking>  
-2. Google UX Design Course  
-3.<https://careerfoundry.com/en/blog/ux-design/stage-two-design-thinking-define-the-problem/>  
-4.<https://usabilitygeek.com/how-to-do-ux-competitor-analysis/>  
-5.<https://careerfoundry.com/en/blog/ux-design/what-is-ideation-in-design-thinking/>
+2.<https://careerfoundry.com/en/blog/ux-design/stage-two-design-thinking-define-the-problem/>  
+3.<https://usabilitygeek.com/how-to-do-ux-competitor-analysis/>  
+4.<https://careerfoundry.com/en/blog/ux-design/what-is-ideation-in-design-thinking/>  
+5.Google UX Design Course on Coursera
+
