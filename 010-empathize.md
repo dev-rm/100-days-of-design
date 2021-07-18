@@ -7,7 +7,7 @@
 
 <img src="images/Day10EmpathyQualities.png" width="800" height="400"/> <br/>
 
-<img src="images/Day10EmpathySketch.jpeg" width="400" height="400"/> <br/>
+<img src="images/Day10EmpathySketch.jpeg" width="800" height="600"/> <br/>
 
 - Empathize is the first stage of design thinking process
 - To empathize:
