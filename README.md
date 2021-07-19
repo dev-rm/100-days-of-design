@@ -10,3 +10,4 @@
 - [Day 8: Information Architecture](008-information-architecture.md)
 - [Day 9: Design Thinking](009-design-thinking.md)
 - [Day 10: Emapthize](010-empathize.md)
+- [Day 11: Define](011-define.md)
