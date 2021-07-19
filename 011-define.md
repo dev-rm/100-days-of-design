@@ -1,6 +1,6 @@
 # Day 11 - Define
 
-<img src="images/Day11Define.jpeg" width="800" height="400"/> <br/>
+![Define](images/Day11Define.jpeg)
 
 In define stage the information and insights gathered from the empathize stage are used to create a problem statement.
 
