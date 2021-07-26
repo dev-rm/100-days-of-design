@@ -12,3 +12,4 @@
 - [Day 10: Emapthize](010-empathize.md)
 - [Day 11: Define](011-define.md)
 - [Day 12: Ideate](012-ideate.md)
+- [Day 13: UX Research](013-ux-research.md)
