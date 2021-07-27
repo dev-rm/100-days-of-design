@@ -13,3 +13,4 @@
 - [Day 11: Define](011-define.md)
 - [Day 12: Ideate](012-ideate.md)
 - [Day 13: UX Research](013-ux-research.md)
+- [Day 14: UX Research - Methodology](014-ux-research-methodology.md)
