@@ -15,3 +15,4 @@
 - [Day 13: UX Research](013-ux-research.md)
 - [Day 14: UX Research - Methodology](014-ux-research-methodology.md)
 - [Day 15: Usability Study](015-usability-study.md)
+- [Day 16: Fidelity - Lo,Hi, Mockup](016-016-fidelity-lo-hi-mockup.md)
