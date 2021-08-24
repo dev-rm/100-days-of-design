@@ -16,3 +16,4 @@
 - [Day 14: UX Research - Methodology](014-ux-research-methodology.md)
 - [Day 15: Usability Study](015-usability-study.md)
 - [Day 16: Fidelity - Lo,Hi, Mockup](016-fidelity-lo-hi-mockup.md)
+- [Day 17: Spatial Memory in UX Design](017-spatial-memory-in-ux-design.md)
