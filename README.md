@@ -17,3 +17,4 @@
 - [Day 15: Usability Study](015-usability-study.md)
 - [Day 16: Fidelity - Lo,Hi, Mockup](016-fidelity-lo-hi-mockup.md)
 - [Day 17: Spatial Memory in UX Design](017-spatial-memory-in-ux-design.md)
+- [Day 18: Foundational Elements of Visual Design](018-foundational-elements-visual-design.md)
