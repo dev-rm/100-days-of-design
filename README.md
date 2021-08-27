@@ -19,3 +19,4 @@
 - [Day 17: Spatial Memory in UX Design](017-spatial-memory-in-ux-design.md)
 - [Day 18: Foundational Elements of Visual Design](018-foundational-elements-visual-design.md)
 - [Day 19: Usability](019-usability.md)
+- [Day 20: Protoype](20-prototype.md)
