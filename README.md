@@ -20,3 +20,4 @@
 - [Day 18: Foundational Elements of Visual Design](018-foundational-elements-visual-design.md)
 - [Day 19: Usability](019-usability.md)
 - [Day 20: Protoype](20-prototype.md)
+- [Day 21: Navigation-Best-Practices](21-navigation-best-practices.md)
