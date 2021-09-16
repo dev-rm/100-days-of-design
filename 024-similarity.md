@@ -1,6 +1,6 @@
 # Day 24 - Similarity
 
-Elements that look similar are perceived to have the same function
+> Elements that look similar are perceived to have the same function
 
 For example, same colored items are perceived to serve the same function
 
