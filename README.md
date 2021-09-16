@@ -22,4 +22,5 @@
 - [Day 20: Protoype](20-prototype.md)
 - [Day 21: Navigation-Best-Practices](21-navigation-best-practices.md)
 - [Day 22: UX Trends 2021](22-ux-trends-2021.md)
-- [Day 23: Unity and Variety](23-UnityAndVariety.md)
+- [Day 23: Unity and Variety](23-23-unity-and-variety.md)
+- [Day 24: Similarity]
