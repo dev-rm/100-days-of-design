@@ -23,4 +23,4 @@
 - [Day 21: Navigation-Best-Practices](21-navigation-best-practices.md)
 - [Day 22: UX Trends 2021](22-ux-trends-2021.md)
 - [Day 23: Unity and Variety](23-23-unity-and-variety.md)
-- [Day 24: Similarity]
+- [Day 24: Similarity](024-similarity.md)
